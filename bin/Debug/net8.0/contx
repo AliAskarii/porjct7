@@ -1,0 +1,9 @@
+public class ApplicationContext : DbContext
+    {
+
+        #region Constractor
+
+        public ApplicationContext(DbContextOptions<ApplicationContext> options) : base(options) { }
+
+        #endregion
+}
