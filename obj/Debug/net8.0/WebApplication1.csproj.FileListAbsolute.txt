@@ -268,3 +268,4 @@ c:\Users\Atena\Desktop\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAss
 c:\Users\Atena\Desktop\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
 c:\Users\Atena\Desktop\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
 c:\Users\Atena\Desktop\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+C:\Users\Atena\Desktop\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
